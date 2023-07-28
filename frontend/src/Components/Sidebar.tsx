@@ -35,7 +35,7 @@ const Sidebar = () => {
           <div className="p-2.5 mt-1 flex items-center">
             <h1 className="font-bold text-white text-2xl ml-3">HackFlow</h1>
             <i
-              className={`bi bi-x cursor-pointer ml-28 text-white lg:hidden ${
+              className={`bi bi-x cursor-pointer ml-28 text-white text-3xl lg:hidden ${
                 isSidebarOpen ? "" : "hidden"
               }`}
               onClick={handleSidebarToggle}
