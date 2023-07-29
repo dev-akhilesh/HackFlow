@@ -2,7 +2,7 @@ import React, { useState, useRef } from "react";
 import Sidebar from "../Components/Sidebar";
 
 const API_URL = "https://api.openai.com/v1/chat/completions";
-const API_KEY = "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";
+const API_KEY = "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";
 
 const InterviewPage: React.FC = () => {
     const [inputValue, setInputValue] = useState<string>("");
