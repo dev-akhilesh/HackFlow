@@ -6,7 +6,7 @@
 </h2> 
 
 <p align="center">
-  <img src="https://github.com/psudhansu/dangerous-powder-9842/assets/111189783/3d7e7049-9436-40e0-b7e7-000cda5f5594)" alt="Description of the image" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/dev-akhilesh/HackFlow/assets/115460874/db43fb18-5b32-4554-ad0b-28ee301e39d1" alt="Description of the image" >
 </p>
 The AI Interview Prep Platform is an innovative and interactive web application that empowers job seekers and aspiring developers to hone their interview skills through realistic interview simulations powered by cutting-edge AI technology.
 
